@@ -46,16 +46,16 @@ Nota: Solamente se incluyen los resultados para las distintas funciones en m = 1
 
 ### Rosenbrock1000
 
-![Rosenbrock1000](LM-BFGS/ros1000.jpg)
+![Rosenbrock1000](https://github.com/AdrianTJ/LM-BFGS/blob/master/ros1000.jpg?raw=true)
 
 ### Tridia
 
-![Tridia](LM-BFGS/tridia.jpg)
+![Tridia](https://github.com/AdrianTJ/LM-BFGS/blob/master/tridia.jpg?raw=true)
 
 ### Dixmaanj
 
-![Dixmaanj](LM-BFGS/dixmaanj.jpg)
+![Dixmaanj](https://github.com/AdrianTJ/LM-BFGS/blob/master/dixmaanj.jpg?raw=true)
 
 ### Freuroth
 
-![Freuroth](LM-BFGS/freud.jpg)
+![Freuroth](https://github.com/AdrianTJ/LM-BFGS/blob/master/freud.jpg?raw=true)
