@@ -1,6 +1,6 @@
 # Método L-BFGS
 
-Adrian Tame, Alejandro Lemus. Para cualquier información adicional, contactar adrian.tame.jacobo@gmail.com. Las funciones son tomadas de https://www.mat.univie.ac.at/~neum/glopt/test.html#test_unconstr. 
+Adrian Tame, Alejandro Lemus. Para cualquier información adicional, contactar adrian.tame.jacobo@gmail.com. Las funciones son tomadas de https://www.mat.univie.ac.at/~neum/glopt/test.html#test_unconstr. la funcion de paso esta fuertemente basada en la implementacion de github.com/GuipengLi. 
 
 ## Tabla de tiempo computacional (en segundos)
 
