@@ -1,2 +1,2 @@
 # LM-BFGS
-An implementation of limited memory BFGS algorithm. 
+A matlab implementation of limited memory BFGS algorithm. 
